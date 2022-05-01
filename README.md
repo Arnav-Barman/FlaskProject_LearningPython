@@ -1,2 +1,2 @@
 ### Link to the final project 
-- translatorapppyprojects.eu-gb.mybluemix.net
+- [English-French translator](https://translatorapppyprojects.eu-gb.mybluemix.net)
